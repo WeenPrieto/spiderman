@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Mansalva', cursive;
+}
+a{
+    display: flex;
+    width: 100px;
+    height: 50px;
+    background-color: crimson;
+    color: black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+}
+nav ul li{
+    display: inline-flex;
+}
